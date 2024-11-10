@@ -1,1 +1,2 @@
 # Research_Report
+論文発表用のリポジトリです
